@@ -1,0 +1,24 @@
+series: Basic C++
+
+title:  Test Copy Constructor
+author:
+
+  name: David I. Schwartz
+ 
+  email:
+ 
+  github: https://github.com/IGME-RIT
+
+description: An example demonstrating the concept of copy constructor.
+
+language: C++
+
+tags:
+  - Core
+
+extra_resources:
+
+connections:
+
+  - series: 
+    title: 
