@@ -1,4 +1,4 @@
-# BigThreeIntro
+# TestCopyConstructor
 
 This tutorial illustrates the concept of copy constructor.
 It covers issues such as conversion constructor and typeid operator.
